@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">702897360702-9voa12v2jl6m0dmqkapcp1i35venhdp3.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://tluchess-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">702897360702</string>
+    <string name="google_api_key" translatable="false">AIzaSyByXal-wDfHo2LXE88pjvuGZvp28ifsT68</string>
+    <string name="google_app_id" translatable="false">1:702897360702:android:8ebf13f554161c8071e66f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyByXal-wDfHo2LXE88pjvuGZvp28ifsT68</string>
+    <string name="google_storage_bucket" translatable="false">tluchess.appspot.com</string>
+    <string name="project_id" translatable="false">tluchess</string>
+</resources>
